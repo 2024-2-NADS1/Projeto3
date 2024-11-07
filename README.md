@@ -6,7 +6,7 @@
 
 # Nome do Projeto
 
-<p>PULSEIRA DE FEEDBACK CORPORAL (PFC)</p>
+<p>Body Feedback Bracelet [BFB]</p>
 
 ## Nome do Grupo
 
