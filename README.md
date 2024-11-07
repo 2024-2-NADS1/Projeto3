@@ -24,12 +24,7 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+<p>Estamos desenvolvendo uma <strong>pulseira inteligente</strong> para monitorar o bem-estar de pessoas com ansiedade, ajudando-as em momentos de desconforto. Nossa pulseira conta com sensores que medem batimentos cardíacos, temperatura corporal, umidade e temperatura do ambiente, monitorando essas variáveis em tempo real. Com essas informações, a pulseira identifica possíveis sinais de estresse ou ansiedade e, através de um app, sugere métodos de autocuidado personalizados para o usuário.</p>
 
 ## 🛠 Estrutura de pastas
 
