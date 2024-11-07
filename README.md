@@ -19,7 +19,7 @@
 ## Descrição
 
 <p align="center">
-<img src="C:\Downloads\imagem_template.jpg" alt="Imagem iLustrativa Do Projeto" border="0">
+<img src="C:/Users/24026770/Downloads/imagem_template.jpg" alt="Imagem iLustrativa Do Projeto" border="0">
 </p>
 
 <p>Estamos desenvolvendo uma <strong>pulseira inteligente</strong> para monitorar o bem-estar de pessoas com ansiedade, ajudando-as em momentos de desconforto. Nossa pulseira conta com sensores que medem batimentos cardíacos, temperatura corporal, umidade e temperatura do ambiente, monitorando essas variáveis em tempo real. Com essas informações, a pulseira identifica possíveis sinais de estresse ou ansiedade e, através de um app, sugere métodos de autocuidado personalizados para o usuário.</p>
