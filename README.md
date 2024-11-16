@@ -80,11 +80,15 @@
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
+
+<br>
 |-->imagens<br>
 
 <br>
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
   &emsp;| informações_sensores.jpg<br>
+
+<br>
 |-->src<br>
 
 <br>
