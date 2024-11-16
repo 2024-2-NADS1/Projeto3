@@ -36,11 +36,11 @@
 
 - Raiz<br>
 |-->documentos<br>
-  |--> Algoritmos e Lógica de Programação<br>
-    |--> Entrega 1<br>
-    |--> Entrega 2<br>
-    |--> Entrega 3<br>
-    |--> Entrega 4<br>
+  &emsp;|--> Algoritmos e Lógica de Programação<br>
+    &emsp;&emsp;|--> Entrega 1<br>
+    &emsp;&emsp;|--> Entrega 2<br>
+    &emsp;&emsp;|--> Entrega 3<br>
+    &emsp;&emsp;|--> Entrega 4<br>
   &emsp;|--> Banco de Dados<br>
     &emsp;| ModeloConceitual.brM3<br>
     &emsp;| ModeloLógico.brM3<br>
