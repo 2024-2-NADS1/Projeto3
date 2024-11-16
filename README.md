@@ -38,6 +38,8 @@
 
 <br>
 |-->documentos<br>
+
+<br>
   &emsp;|--> Algoritmos e Lógica de Programação<br>
     &emsp;&emsp;|--> Entrega 1<br>
     &emsp;&emsp;|--> Entrega 2<br>
@@ -79,9 +81,13 @@
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
 |-->imagens<br>
+
+<br>
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
   &emsp;| informações_sensores.jpg<br>
 |-->src<br>
+
+<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
