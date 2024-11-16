@@ -36,16 +36,20 @@
 
 - Raiz<br>
 |-->documentos<br>
-  &emsp;|--><u> Algoritmos e Lógica de Programação</u><br>
+  &emsp;|--> Algoritmos e Lógica de Programação<br>
     &emsp;&emsp;|--> Entrega 1<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
-  &emsp;|--><u> Banco de Dados</u><br>
+
+<br>
+  &emsp;|--> Banco de Dados<br>
     &emsp;&emsp;| ModeloConceitual.brM3<br>
     &emsp;&emsp;| ModeloLógico.brM3<br>
     &emsp;&emsp;| ModelosBD.pdf<br>
-  &emsp;|--><u> Metodos Quantitativos</u><br>
+
+<br>
+  &emsp;|--> Metodos Quantitativos<br>
     &emsp;&emsp;|--> Entrega 1<br>
       &emsp;| MetodosQuantitativos01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
@@ -54,7 +58,9 @@
       &emsp;| MetodosQuantitativos03.pdf<br>
     &emsp;&emsp;|--> Entrega 4<br>
       &emsp;| MetodosQuantitativos04.pdf<br>
-  &emsp;|--><u> Redes de Computadores</u><br>
+
+  <br>
+  &emsp;|--> Redes de Computadores<br>
     &emsp;&emsp;|--> Entrega 1<br>
       &emsp;| RedesDeComputadores01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
@@ -63,7 +69,9 @@
       &emsp;| RedesDeComputadores03.pdf<br>
     &emsp;&emsp;|--> Entrega 4<br>
       &emsp;| RedesDeComputadores04.pdf<br>
-  &emsp;|--><u> Sistemas Embarcados e Internet das Coisas</u><br>
+
+  <br>
+  &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
     &emsp;&emsp;|--> Entrega 1<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
