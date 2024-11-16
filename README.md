@@ -113,6 +113,12 @@
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
 <ul>
   <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial do software.</li>
+  <li>Baixe as bibliotecas utilizadas, sendo:
+    <a href="https://www.arduino.cc/en/software">ESP32</a> no site oficial do arduino.
+    <a href="https://www.arduino.cc/en/software">DHT22</a> no site oficial do arduino.
+    <a href="https://www.arduino.cc/en/software">MAX30102</a> no site oficial do arduino.
+    <a href="https://www.arduino.cc/en/software">MLX90614</a> no site oficial do arduino.
+  </li>
 </ul>
 
 ## 📋 Licença/License
