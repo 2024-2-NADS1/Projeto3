@@ -4,11 +4,11 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação Escola de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto:
+<p>EN: Body Feedback Bracelet [BFB]</p>
+<p>PT-BR: PULSEIRA DE ANÁLISE CORPORAL [PAC]</p>
 
-<p>Body Feedback Bracelet [BFB]</p>
-
-## Nome do Grupo
+## Nome do Grupo:
 
 <P>D4Vz</P>
 
@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/remuniz/">Dra. Renata Muniz do Nascimento</a> |
 <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Me. Ronaldo Araujo Pinto</a>
 
-## Descrição
+## Descrição:
 
 <p align="center">
 <img src="https://i.ibb.co/QKpm0sD/imagem-template.webp" alt="imagem-template" border="0">
