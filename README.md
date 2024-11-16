@@ -26,7 +26,7 @@
 
 ## Descrição:
 
-<p>Estamos desenvolvendo uma <strong>pulseira inteligente</strong> para monitorar o bem-estar de pessoas com ansiedade, ajudando-as em momentos de desconforto. Nossa pulseira conta com sensores que medem umidade e temperatura do ambiente, batimentos cardíacos, oxigênio no sangue (SpO₂) e temperatura corporal, monitorando essas variáveis em tempo real. Com essas informações, a pulseira identifica possíveis sinais de estresse ou ansiedade e, através de um site, sugere métodos de autocuidado personalizados para o usuário.</p>
+<p>Este projeto consiste em uma <strong>pulseira inteligente</strong> que monitora o bem-estar de pessoas com ansiedade, ajudando-as em momentos de desconforto. Nossa pulseira conta com sensores que medem umidade e temperatura do ambiente, batimentos cardíacos, oxigênio no sangue (SpO₂) e temperatura corporal, monitorando essas variáveis em tempo real. Com essas informações, a pulseira identifica possíveis sinais de estresse ou ansiedade e, através de um site, sugere métodos de autocuidado personalizados para o usuário.</p>
 
 <p align="center">
 <img src="https://i.ibb.co/xYzJN63/aluno-desenvolvendo-projeto.jpg" alt="Um aluno desenvolvendo um projeto" border="0">
@@ -34,34 +34,69 @@
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
+- Raiz<br>
+
+<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+
+<br>
+  &emsp;|--> Algoritmos e Lógica de Programação<br>
+    &emsp;&emsp;|--> Entrega 1<br>
+    &emsp;&emsp;|--> Entrega 2<br>
+    &emsp;&emsp;|--> Entrega 3<br>
+    &emsp;&emsp;|--> Entrega 4<br>
+
+<br>
+  &emsp;|--> Banco de Dados<br>
+    &emsp;&emsp;| ModeloConceitual.brM3<br>
+    &emsp;&emsp;| ModeloLógico.brM3<br>
+    &emsp;&emsp;| ModelosBD.pdf<br>
+
+<br>
+  &emsp;|--> Metodos Quantitativos<br>
+    &emsp;&emsp;|--> Entrega 1<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos01.pdf<br>
+    &emsp;&emsp;|--> Entrega 2<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos02.pdf<br>
+    &emsp;&emsp;|--> Entrega 3<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos03.pdf<br>
+    &emsp;&emsp;|--> Entrega 4<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos04.pdf<br>
+
+  <br>
+  &emsp;|--> Redes de Computadores<br>
+    &emsp;&emsp;|--> Entrega 1<br>
+      &emsp;&emsp;&emsp;| RedesDeComputadores01.pdf<br>
+    &emsp;&emsp;|--> Entrega 2<br>
+      &emsp;&emsp;&emsp;| RedesDeComputadores02.pdf<br>
+    &emsp;&emsp;|--> Entrega 3<br>
+      &emsp;&emsp;&emsp;| RedesDeComputadores03.pdf<br>
+    &emsp;&emsp;|--> Entrega 4<br>
+      &emsp;&emsp;&emsp;| RedesDeComputadores04.pdf<br>
+
+  <br>
+  &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
+    &emsp;&emsp;|--> Entrega 1<br>
+    &emsp;&emsp;|--> Entrega 2<br>
+    &emsp;&emsp;|--> Entrega 3<br>
+    &emsp;&emsp;|--> Entrega 4<br>
+
+<br>
 |-->imagens<br>
+
+<br>
+  &emsp;| aluno_desenvolvendo_projeto.jpg<br>
+  &emsp;| informações_sensores.jpg<br>
+
+<br>
 |-->src<br>
+
+<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-|readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
+<br>
+| readme.md<br>
 
 ## 🛠 Instalação
 
