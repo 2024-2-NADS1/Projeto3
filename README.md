@@ -47,32 +47,30 @@
     &emsp;| ModelosBD.pdf<br>
   &emsp;|--> Metodos Quantitativos<br>
     &emsp;|--> Entrega 1<br>
-    &emsp;| MetodosQuantitativos01.pdf<br>
+      &emsp;| MetodosQuantitativos01.pdf<br>
     &emsp;|--> Entrega 2<br>
-    &emsp;| MetodosQuantitativos02.pdf<br>
+      &emsp;| MetodosQuantitativos02.pdf<br>
     &emsp;|--> Entrega 3<br>
-    &emsp;| MetodosQuantitativos03.pdf<br>
+      &emsp;| MetodosQuantitativos03.pdf<br>
     &emsp;|--> Entrega 4<br>
-    &emsp;| MetodosQuantitativos04.pdf<br>
+      &emsp;| MetodosQuantitativos04.pdf<br>
   &emsp;|--> Redes de Computadores<br>
     &emsp;|--> Entrega 1<br>
-    &emsp;| RedesDeComputadores01.pdf<br>
+      &emsp;| RedesDeComputadores01.pdf<br>
     &emsp;|--> Entrega 2<br>
-    &emsp;| RedesDeComputadores02.pdf<br>
+      &emsp;| RedesDeComputadores02.pdf<br>
     &emsp;|--> Entrega 3<br>
-    &emsp;| RedesDeComputadores03.pdf<br>
+      &emsp;| RedesDeComputadores03.pdf<br>
     &emsp;|--> Entrega 4<br>
-    &emsp;| RedesDeComputadores04.pdf<br>
+      &emsp;| RedesDeComputadores04.pdf<br>
   &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
     &emsp;|--> Entrega 1<br>
     &emsp;|--> Entrega 2<br>
     &emsp;|--> Entrega 3<br>
     &emsp;|--> Entrega 4<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
+  &emsp;| aluno_desenvolvendo_projeto.jpg<br>
+  &emsp;| informações_sensores.jpg<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
