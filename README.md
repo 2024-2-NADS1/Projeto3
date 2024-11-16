@@ -42,32 +42,32 @@
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
   &emsp;|--> Banco de Dados<br>
-    &emsp;| ModeloConceitual.brM3<br>
-    &emsp;| ModeloLógico.brM3<br>
-    &emsp;| ModelosBD.pdf<br>
+    &emsp;&emsp;| ModeloConceitual.brM3<br>
+    &emsp;&emsp;| ModeloLógico.brM3<br>
+    &emsp;&emsp;| ModelosBD.pdf<br>
   &emsp;|--> Metodos Quantitativos<br>
-    &emsp;|--> Entrega 1<br>
+    &emsp;&emsp;|--> Entrega 1<br>
       &emsp;| MetodosQuantitativos01.pdf<br>
-    &emsp;|--> Entrega 2<br>
+    &emsp;&emsp;|--> Entrega 2<br>
       &emsp;| MetodosQuantitativos02.pdf<br>
-    &emsp;|--> Entrega 3<br>
+    &emsp;&emsp;|--> Entrega 3<br>
       &emsp;| MetodosQuantitativos03.pdf<br>
-    &emsp;|--> Entrega 4<br>
+    &emsp;&emsp;|--> Entrega 4<br>
       &emsp;| MetodosQuantitativos04.pdf<br>
   &emsp;|--> Redes de Computadores<br>
-    &emsp;|--> Entrega 1<br>
+    &emsp;&emsp;|--> Entrega 1<br>
       &emsp;| RedesDeComputadores01.pdf<br>
-    &emsp;|--> Entrega 2<br>
+    &emsp;&emsp;|--> Entrega 2<br>
       &emsp;| RedesDeComputadores02.pdf<br>
-    &emsp;|--> Entrega 3<br>
+    &emsp;&emsp;|--> Entrega 3<br>
       &emsp;| RedesDeComputadores03.pdf<br>
-    &emsp;|--> Entrega 4<br>
+    &emsp;&emsp;|--> Entrega 4<br>
       &emsp;| RedesDeComputadores04.pdf<br>
   &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
-    &emsp;|--> Entrega 1<br>
-    &emsp;|--> Entrega 2<br>
-    &emsp;|--> Entrega 3<br>
-    &emsp;|--> Entrega 4<br>
+    &emsp;&emsp;|--> Entrega 1<br>
+    &emsp;&emsp;|--> Entrega 2<br>
+    &emsp;&emsp;|--> Entrega 3<br>
+    &emsp;&emsp;|--> Entrega 4<br>
 |-->imagens<br>
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
   &emsp;| informações_sensores.jpg<br>
