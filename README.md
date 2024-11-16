@@ -29,7 +29,7 @@
 <p>Estamos desenvolvendo uma <strong>pulseira inteligente</strong> para monitorar o bem-estar de pessoas com ansiedade, ajudando-as em momentos de desconforto. Nossa pulseira conta com sensores que medem umidade e temperatura do ambiente, batimentos cardíacos, oxigênio no sangue (SpO₂) e temperatura corporal, monitorando essas variáveis em tempo real. Com essas informações, a pulseira identifica possíveis sinais de estresse ou ansiedade e, através de um site, sugere métodos de autocuidado personalizados para o usuário.</p>
 
 <p align="center">
-<img src="https://devgustar.imgbb.com/" alt="Um aluno desenvolvendo um projeto" border="0">
+<img src="https://i.ibb.co/xYzJN63/aluno-desenvolvendo-projeto.jpg" alt="Um aluno desenvolvendo um projeto" border="0">
 </p>
 
 ## 🛠 Estrutura de pastas
