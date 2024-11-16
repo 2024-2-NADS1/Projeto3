@@ -5,8 +5,7 @@
 </p>
 
 # Nome do Projeto:
-<p>EN: Body Feedback Bracelet [BFB]</p>
-<p>PT-BR: PULSEIRA DE ANÁLISE CORPORAL [PAC]</p>
+<p><strong>EN: </strong>Body Feedback Bracelet [BFB] - <strong>PT-BR: </strong> PULSEIRA DE ANÁLISE CORPORAL [PAC]</p>
 
 ## Nome do Grupo:
 
