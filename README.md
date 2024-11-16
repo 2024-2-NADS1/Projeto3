@@ -51,13 +51,13 @@
 <br>
   &emsp;|--> Metodos Quantitativos<br>
     &emsp;&emsp;|--> Entrega 1<br>
-      &emsp;| MetodosQuantitativos01.pdf<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
-      &emsp;| MetodosQuantitativos02.pdf<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos02.pdf<br>
     &emsp;&emsp;|--> Entrega 3<br>
-      &emsp;| MetodosQuantitativos03.pdf<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos03.pdf<br>
     &emsp;&emsp;|--> Entrega 4<br>
-      &emsp;| MetodosQuantitativos04.pdf<br>
+      &emsp;&emsp;&emsp;| MetodosQuantitativos04.pdf<br>
 
   <br>
   &emsp;|--> Redes de Computadores<br>
