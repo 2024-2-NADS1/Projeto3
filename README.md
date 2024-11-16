@@ -12,7 +12,11 @@
 
 <P>D4Vz</P>
 
-## Integrantes: <a href="https://github.com/DevGustar">Gustavo Roberto</a>, <a href="https://github.com/NogGab">Gabriel Nogueira</a>, <a href="https://github.com/ErikRaimundo">Erik Raimundo</a> e <a href="https://github.com/eijikanai">Henrique Kanai</a>.
+## Integrantes:
+<a href="https://github.com/DevGustar">Gustavo Roberto</a> |
+<a href="https://github.com/NogGab">Gabriel Nogueira</a> |
+<a href="https://github.com/ErikRaimundo">Erik Raimundo</a> |
+<a href="https://github.com/eijikanai">Henrique Kanai</a>
 
 ## Orientadores:
 <a href="https://www.linkedin.com/in/victorbarq/?originalSubdomain=br">Dr. Victor Rosetti de Queiroz</a> |
