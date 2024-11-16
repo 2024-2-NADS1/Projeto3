@@ -57,7 +57,7 @@
   &emsp;|--><u> Redes de Computadores</u><br>
     &emsp;&emsp;|--> Entrega 1<br>
       &emsp;| RedesDeComputadores01.pdf<br>
-    &emsp;&emsp;|--> Entrega 2<br>
+    &emsp;|--> <span style="text-decoration: underline;">Redes de Computadores</span><br>
       &emsp;| RedesDeComputadores02.pdf<br>
     &emsp;&emsp;|--> Entrega 3<br>
       &emsp;| RedesDeComputadores03.pdf<br>
