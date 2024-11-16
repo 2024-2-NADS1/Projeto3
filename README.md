@@ -14,7 +14,12 @@
 
 ## Integrantes: <a href="https://github.com/DevGustar">Gustavo Roberto</a>, <a href="https://github.com/NogGab">Gabriel Nogueira</a>, <a href="https://github.com/ErikRaimundo">Erik Raimundo</a> e <a href="https://github.com/eijikanai">Henrique Kanai</a>.
 
-## Professor Orientador: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>
+## Orientadores:
+<a href="https://www.linkedin.com/in/victorbarq/?originalSubdomain=br">Dr. Victor Rosetti de Queiroz</a> |
+<a href="https://www.linkedin.com/in/lucymari/?originalSubdomain=br">Dra. Lucy Mari Tabuti</a> |
+<a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Dr. Eduardo Savino Gomes</a> |
+<a href="https://www.linkedin.com/in/remuniz/">Dra. Renata Muniz do Nascimento</a> |
+<a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Me. Ronaldo Araujo Pinto</a>
 
 ## Descrição
 
