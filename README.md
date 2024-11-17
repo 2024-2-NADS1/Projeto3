@@ -109,16 +109,25 @@
   <li>Computador, monitor, mouse, teclado e seus respectivos cabos de alimentação/conexão</li>
   <li>Sistema operacional (windows, linux etc)</li>
   
-  <li>1x <a href="https://www.google.com/search?q=esp32&oq=esp32&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBggBEEUYOzIMCAIQIxgnGIAEGIoFMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTIzOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank">ESP32</a></li>
+  <li>1x <a href="https://www.google.com/search?q=esp32&oq=esp32&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBggBEEUYOzIMCAIQIxgnGIAEGIoFMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTIzOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    ESP32</a></li>
   
-  <li>1x <a href="https://www.google.com/search?q=breadboard&oq=breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Breadboard</a></li>
+  <li>1x <a href="https://www.google.com/search?q=breadboard&oq=breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    Breadboard</a></li>
 
-  <li>13x <a href="https://www.google.com/search?q=Jumpers+MxF&oq=Jumpers+MxF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBBzQyNWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">Jumpers MxF</a></li>
+  <li>13x <a href="https://www.google.com/search?q=Jumpers+MxF&oq=Jumpers+MxF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBBzQyNWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    Jumpers MxF</a></li>
 
-  <li>6x <a href="https://www.google.com/search?q=Jumpers+MxM&oq=Jumpers+MxM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzY3MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">Jumpers MxM</a></li>
-  <li>1x <a href="">DHT22</a></li>
-  <li>1x <a href="">MAX30102</a></li>
-  <li>1x <a href="">MLX90614</a></li>
+  <li>6x <a href="https://www.google.com/search?q=Jumpers+MxM&oq=Jumpers+MxM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzY3MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    Jumpers MxM</a></li>
+  
+  <li>1x <a href="https://www.google.com/search?q=dht22&oq=dht22&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgwIARAAGBQYhwIYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQgxMjE0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
+    DHT22</a></li>
+  
+  <li>1x <a href="https://www.google.com/search?q=MAX30102&oq=MAX30102&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIQCAEQRRgTGCcYOxiABBiKBTIGCAIQRRhAMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEHNTM2ajBqOagCALACAA&sourceid=chrome&ie=UTF-8">
+    MAX30102</a></li>
+  
+  <li>1x <a href="https://www.google.com/search?q=MLX90614&oq=MLX90614&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMg4IARBFGBQYOxiHAhiABDIICAIQRRgnGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc1OTFqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8">MLX90614</a></li>
 </ul>
 
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
