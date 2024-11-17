@@ -103,7 +103,7 @@
 | readme.md<br>
 
 ## 🛠 Hardwares e Instalação
-<p>🗃<strong>HARDWARE</strong></p>
+<p>🛠<strong>HARDWARE</strong></p>
 <ul>
   <li>ESP32</li>
   <li>PROTOBOARD</li>
@@ -113,7 +113,7 @@
   <li>JUMPERS MACHO E FÊMEA</li>
 </ul>
 
-<p><strong>SOFTWARE</strong></p>
+<p>💻<strong>SOFTWARE</strong></p>
 <ul>
   <li>Arduíno IDE</li>
   <li>VSCode</li>  
@@ -134,6 +134,8 @@
     <a href="https://www.arduino.cc/en/software">MAX30102</a> no site oficial do arduino.
     <a href="https://www.arduino.cc/en/software">MLX90614</a> no site oficial do arduino.
   </li>
+  <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
+  irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
 </ul>
 
 ## 📋 Licença/License
