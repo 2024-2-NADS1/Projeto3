@@ -133,7 +133,7 @@
   <li>Baixe, no próprio arduino IDE, o suporte para a placa do ESP32</li>
   <ol>
     <li>Ferramentas > Placa > Gerenciador de Placa</li>
-    <li>Pesquise por "ESP32" e instale a versão que contenha "by espressif", como na imagem abaixo</li>
+    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"</li>
   </ol>
   <img src="https://i.ibb.co/gv42YyC/ESP32-Board.jpg" alt="" border="0">
 </ul>
