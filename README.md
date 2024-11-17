@@ -109,7 +109,7 @@
   <li>Computador, monitor, mouse, teclado e seus respectivos cabos de alimentação/conexão</li>
   <li>Sistema operacional (windows, linux etc)</li>
   <li>1x ESP32</li>
-  <li>1x breadboard</li>
+  <li>1x Breadboard</li>
   <li>13x Jumpers MxF</li>
   <li>6x Jumpers MxM</li>
   <li>1x DHT22</li>
