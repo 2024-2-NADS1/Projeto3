@@ -133,11 +133,11 @@
   <li>Baixe, no próprio arduino IDE, o suporte para a placa do ESP32</li>
   <ol>
     <li>Ferramentas > Placa > Gerenciador de Placas</li>
-    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"<br>
-      Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video</li>
+    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"
   </ol>
-  <img src="https://i.ibb.co/gv42YyC/ESP32-Board.jpg" alt="" border="0">
 </ul>
+<p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video</p>
+<img src="https://i.ibb.co/gv42YyC/ESP32-Board.jpg" alt="" border="0">
 <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
   irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
 
