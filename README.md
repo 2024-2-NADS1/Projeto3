@@ -67,7 +67,7 @@
     &emsp;&emsp;|--> Entrega 4<br>
       &emsp;&emsp;&emsp;| MetodosQuantitativos04.pdf<br>
 
-  <br>
+<br>
   &emsp;|--> Redes de Computadores<br>
     &emsp;&emsp;|--> Entrega 1<br>
       &emsp;&emsp;&emsp;| RedesDeComputadores01.pdf<br>
@@ -78,7 +78,7 @@
     &emsp;&emsp;|--> Entrega 4<br>
       &emsp;&emsp;&emsp;| RedesDeComputadores04.pdf<br>
 
-  <br>
+<br>
   &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
     &emsp;&emsp;|--> Entrega 1<br>
     &emsp;&emsp;|--> Entrega 2<br>
@@ -137,25 +137,20 @@
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
 <ul>
   <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</li>
-  <li>Baixe as bibliotecas utilizadas, sendo:<br>
-    <a href="https://www.arduino.cc/en/software">ESP32</a> no site oficial do arduino.<br>
-    <a href="https://www.arduino.cc/en/software">DHT22</a> no site oficial do arduino.<br>
-    <a href="https://www.arduino.cc/en/software">MAX30102</a> no site oficial do arduino.<br>
-    <a href="https://www.arduino.cc/en/software">MLX90614</a> no site oficial do arduino.<br>
-  </li>
-  </ul>
-  <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
+  <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li>
+</ul>
+<p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
   irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
 
-  ## 🗃 Histórico de Lançamento
-  <ul>
-    <li><strong>0.1.0</strong> - 22/10/2024: Compra de materiais.</li>
-     <li><strong>0.2.0</strong> - 29/10/2024: Estudos sobre exercícios propostos contra estresse/ansiedade.</li>
-     <li><strong>0.3.0</strong> - 02/11/2024: Desenvolvimento dos códigos dos sensores, do circuito e página HTML para demonstração das detecçõoes dos sensores.</li>
-     <li><strong>0.4.0</strong> - 07/11/2024: Organização do GitHub e pastas.</li>
-     <li><strong>0.5.0</strong> - 14/11/2024: Integração às bibliotecas necessárias.</li>
-     <li><strong>0.6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
-  </ul>
+## 🗃 Histórico de Lançamento
+<ul>
+  <li><strong>0.1.0</strong> - 22/10/2024: Compra de materiais.</li>
+   <li><strong>0.2.0</strong> - 29/10/2024: Estudos sobre exercícios propostos contra estresse/ansiedade.</li>
+   <li><strong>0.3.0</strong> - 02/11/2024: Desenvolvimento dos códigos dos sensores, do circuito e página HTML para demonstração das detecçõoes dos sensores.</li>
+   <li><strong>0.4.0</strong> - 07/11/2024: Organização do GitHub e pastas.</li>
+   <li><strong>0.5.0</strong> - 14/11/2024: Integração às bibliotecas necessárias.</li>
+   <li><strong>0.6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
+</ul>
 
 
 ## 📋 Licença/License
