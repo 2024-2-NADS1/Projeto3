@@ -110,7 +110,13 @@
   <li>DHT22</li>
   <li>MAX30102</li>
   <li>MLX90614</li>
-  
+  <li>JUMPERS MACHO E FÊMEA</li>
+</ul>
+
+<p><strong>SOFTWARE</strong></p>
+<ul>
+  <li>Arduíno IDE</li>
+  <li>VSCode</li>  
 </ul>
 
 <p><strong>Componentes necessários</strong></p>
