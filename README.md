@@ -109,8 +109,8 @@
   <li>Computador, monitor, mouse, teclado e seus respectivos cabos de alimentação/conexão</li>
   <li>Sistema operacional (windows, linux etc)</li>
 
-  <li>1x <a href="https://www.google.com/search?q=ESP32&oq=ESP32&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBggBEEUYOzIMCAIQIxgnGIAEGIoFMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTIzOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
-    ESP32</a></li>
+  <li>1x ESP32<a href="https://www.google.com/search?q=ESP32&oq=ESP32&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBggBEEUYOzIMCAIQIxgnGIAEGIoFMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTIzOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    (aqui)</a></li>
 
   <li>1x <a href="https://www.google.com/search?q=Breadboard&oq=Breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">
     Breadboard</a></li>
