@@ -126,7 +126,7 @@
   <li>1x Cabo USC-C <a href="https://www.google.com/search?q=Cabo+USB-C&sca_esv=b28375632d0b0304&biw=1920&bih=953&sxsrf=ADLYWIJIVh5SMcy4VTncFno97HCLX3VWow%3A1731867793516&ei=kTQ6Z8aQH-_a1sQP8fOsMQ&ved=0ahUKEwiGnYWl_uOJAxVvrZUCHfE5KwYQ4dUDCA8&uact=5&oq=Cabo+USB-C&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkNhYm8gVVNCLUMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOIvUJwQWMoscAN4AZABAJgBbKAB8QiqAQMyLjm4AQPIAQD4AQGYAg6gApMJwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAgQQIxgnwgIKECMYgAQYJxiKBcICDBAAGIAEGEMYigUYCsICChAAGIAEGEMYigXCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYFBiHAsICCBAAGIAEGLEDmAMAiAYBkAYKkgcENC4xMKAH-k4&sclient=gws-wiz-serp"><></a></li>
 </ul>
 
-<p><strong>Passo a passo para a execução deste projeto</strong></p>
+<p><strong>Passo a passo para a execução do projeto</strong></p>
 <ul>
   <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</li>
   <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li><br>
@@ -136,9 +136,11 @@
     <li>Ferramentas > Placa > Gerenciador de Placas</li>
     <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"
   </ol>
+  <img src="https://i.ibb.co/Q6m1BMb/ESP32-Board.jpg" alt="" border="0">
+  <p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video</p>
+  <li>Agora, inclua no Aruino IDE todas as bibliotecas baixadas</li>
+  <img src="https://i.ibb.co/51MdTw2/guia2.jpg" alt="" border="0">
 </ul>
-<img src="https://i.ibb.co/Q6m1BMb/ESP32-Board.jpg" alt="" border="0">
-<p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video</p>
 <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
   irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
 
