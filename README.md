@@ -136,12 +136,12 @@
 
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
 <ul>
-  <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial.</li>
-  <li>Baixe as bibliotecas utilizadas, sendo:
-    <a href="https://www.arduino.cc/en/software">ESP32</a> no site oficial do arduino.
-    <a href="https://www.arduino.cc/en/software">DHT22</a> no site oficial do arduino.
-    <a href="https://www.arduino.cc/en/software">MAX30102</a> no site oficial do arduino.
-    <a href="https://www.arduino.cc/en/software">MLX90614</a> no site oficial do arduino.
+  <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</li>
+  <li>Baixe as bibliotecas utilizadas, sendo:<br>
+    <a href="https://www.arduino.cc/en/software">ESP32</a> no site oficial do arduino.<br>
+    <a href="https://www.arduino.cc/en/software">DHT22</a> no site oficial do arduino.<br>
+    <a href="https://www.arduino.cc/en/software">MAX30102</a> no site oficial do arduino.<br>
+    <a href="https://www.arduino.cc/en/software">MLX90614</a> no site oficial do arduino.<br>
   </li>
   </ul>
   <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
