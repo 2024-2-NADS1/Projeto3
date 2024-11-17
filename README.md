@@ -115,8 +115,7 @@
 
 <p>💻<strong>SOFTWARE</strong></p>
 <ul>
-  <li>Arduíno IDE</li>
-  <li>VSCode</li>  
+  <li>Arduíno IDE</li>  
 </ul>
 
 <p><strong>Componentes necessários</strong></p>
@@ -140,7 +139,12 @@
 
   ## 🗃 Histórico de Lançamento
   <ul>
-    <li><strong>0.1.0</strong>strong></li>
+    <li><strong>0.1.0</strong> - 22/10/2024: Compra de materiais.</li>
+     <li><strong>0.2.0</strong> - 29/10/2024: Estudos sobre exercícios propostos contra estresse/ansiedade.</li>
+     <li><strong>0.3.0</strong> - 02/11/2024: Desenvolvimento dos códigos dos sensores, do circuito e página HTML para demonstração das detecçõoes dos sensores.</li>
+     <li><strong>0.4.0</strong> - 07/11/2024: Organização do GitHub e pastas.</li>
+     <li><strong>0.5.0</strong> - 14/11/2024: Integração às bibliotecas necessárias.</li>
+     <li><strong>0.6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
   </ul>
 
 
