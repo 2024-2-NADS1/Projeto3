@@ -103,30 +103,23 @@
 | readme.md<br>
 
 ## 🛠 Hardwares e Instalação
-<p>🛠<strong>HARDWARE</strong></p>
-<ul>
-  <li>ESP32</li>
-  <li>PROTOBOARD</li>
-  <li>DHT22</li>
-  <li>MAX30102</li>
-  <li>MLX90614</li>
-  <li>JUMPERS MACHO E FÊMEA</li>
-</ul>
-
-<p>💻<strong>SOFTWARE</strong></p>
-<ul>
-  <li>Arduíno IDE</li>  
-</ul>
 
 <p><strong>Componentes necessários</strong></p>
 <ul>
   <li>Computador, monitor, mouse, teclado e seus respectivos cabos de alimentação/conexão</li>
   <li>Sistema operacional (windows, linux etc)</li>
+  <li>1x ESP32</li>
+  <li>1x breadboard (1x)</li>
+  <li>13x Jumpers MxF</li>
+  <li>6x Jumpers MxM</li>
+  <li>1x DHT22</li>
+  <li>1x MAX30102</li>
+  <li>1x MLX90614</li>
 </ul>
 
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
 <ul>
-  <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial do software.</li>
+  <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial.</li>
   <li>Baixe as bibliotecas utilizadas, sendo:
     <a href="https://www.arduino.cc/en/software">ESP32</a> no site oficial do arduino.
     <a href="https://www.arduino.cc/en/software">DHT22</a> no site oficial do arduino.
