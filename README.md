@@ -134,9 +134,10 @@
     <a href="https://www.arduino.cc/en/software">MAX30102</a> no site oficial do arduino.
     <a href="https://www.arduino.cc/en/software">MLX90614</a> no site oficial do arduino.
   </li>
+  </ul>
   <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
   irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
-</ul>
+
 
 ## 📋 Licença/License
 
