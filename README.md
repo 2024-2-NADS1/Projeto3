@@ -103,7 +103,7 @@
 | readme.md<br>
 
 ## 🛠 Hardwares e Instalação
-<p><strong>HARDWARE</strong></p>
+<p>🗃<strong>HARDWARE</strong></p>
 <ul>
   <li>ESP32</li>
   <li>PROTOBOARD</li>
