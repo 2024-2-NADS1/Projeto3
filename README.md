@@ -132,7 +132,7 @@
   <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li>
   <li>Baixe, no próprio arduino IDE, o suporte para a placa do ESP32</li>
   <ol>
-    <li>Ferramentas > Placa > Gerenciador de Placa</li>
+    <li>Ferramentas > Placa > Gerenciador de Placas</li>
     <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"</li>
   </ol>
   <img src="https://i.ibb.co/gv42YyC/ESP32-Board.jpg" alt="" border="0">
