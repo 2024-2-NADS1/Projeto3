@@ -103,6 +103,15 @@
 | readme.md<br>
 
 ## 🛠 Hardwares e Instalação
+<p><strong>HARDWARE</strong></p>
+<ul>
+  <li>ESP32</li>
+  <li>PROTOBOARD</li>
+  <li>DHT22</li>
+  <li>MAX30102</li>
+  <li>MLX90614</li>
+  
+</ul>
 
 <p><strong>Componentes necessários</strong></p>
 <ul>
