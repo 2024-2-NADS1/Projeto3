@@ -110,28 +110,28 @@
   <li>Sistema operacional (windows, linux etc)</li>
 
   <li>1x ESP32<a href="https://www.google.com/search?q=ESP32&oq=ESP32&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBggBEEUYOzIMCAIQIxgnGIAEGIoFMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTIzOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
-    (aqui)</a></li>
+    <></a></li>
 
-  <li>1x <a href="https://www.google.com/search?q=Breadboard&oq=Breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">
-    Breadboard</a></li>
+  <li>1x Breadboard<a href="https://www.google.com/search?q=Breadboard&oq=Breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    <></a></li>
 
-  <li>13x <a href="https://www.google.com/search?q=Jumpers+MxF&oq=Jumpers+MxF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBBzQyNWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
-    Jumpers MxF</a></li>
+  <li>13x Jumpers MxF<a href="https://www.google.com/search?q=Jumpers+MxF&oq=Jumpers+MxF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBBzQyNWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    <></a></li>
 
-  <li>6x <a href="https://www.google.com/search?q=Jumpers+MxM&oq=Jumpers+MxM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzY3MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
-    Jumpers MxM</a></li>
+  <li>6x Jumpers MxM<a href="https://www.google.com/search?q=Jumpers+MxM&oq=Jumpers+MxM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzY3MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    <></a></li>
 
-  <li>1x <a href="https://www.google.com/search?q=DHT22&oq=DHT22&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgwIARAAGBQYhwIYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQgxMjE0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
-    DHT22</a></li>
+  <li>1x DHT22<a href="https://www.google.com/search?q=DHT22&oq=DHT22&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgwIARAAGBQYhwIYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQgxMjE0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
+    <></a></li>
 
-  <li>1x <a href="https://www.google.com/search?q=MAX30102&oq=MAX30102&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIQCAEQRRgTGCcYOxiABBiKBTIGCAIQRRhAMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEHNTM2ajBqOagCALACAA&sourceid=chrome&ie=UTF-8">
-    MAX30102</a></li>
+  <li>1x MAX30102<a href="https://www.google.com/search?q=MAX30102&oq=MAX30102&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIQCAEQRRgTGCcYOxiABBiKBTIGCAIQRRhAMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEHNTM2ajBqOagCALACAA&sourceid=chrome&ie=UTF-8">
+    <></a></li>
 
-  <li>1x <a href="https://www.google.com/search?q=MLX90614&oq=MLX90614&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMg4IARBFGBQYOxiHAhiABDIICAIQRRgnGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc1OTFqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8">
-    MLX90614</a></li>
+  <li>1x MLX90614<a href="https://www.google.com/search?q=MLX90614&oq=MLX90614&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMg4IARBFGBQYOxiHAhiABDIICAIQRRgnGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc1OTFqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8">
+    <></a></li>
 
-  <li>1x <a href="https://www.google.com/search?q=Cabo+USB-C&sca_esv=b28375632d0b0304&biw=1920&bih=953&sxsrf=ADLYWIJIVh5SMcy4VTncFno97HCLX3VWow%3A1731867793516&ei=kTQ6Z8aQH-_a1sQP8fOsMQ&ved=0ahUKEwiGnYWl_uOJAxVvrZUCHfE5KwYQ4dUDCA8&uact=5&oq=Cabo+USB-C&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkNhYm8gVVNCLUMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOIvUJwQWMoscAN4AZABAJgBbKAB8QiqAQMyLjm4AQPIAQD4AQGYAg6gApMJwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAgQQIxgnwgIKECMYgAQYJxiKBcICDBAAGIAEGEMYigUYCsICChAAGIAEGEMYigXCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYFBiHAsICCBAAGIAEGLEDmAMAiAYBkAYKkgcENC4xMKAH-k4&sclient=gws-wiz-serp">
-    Cabo USC-C</a></li>
+  <li>1x Cabo USC-C<a href="https://www.google.com/search?q=Cabo+USB-C&sca_esv=b28375632d0b0304&biw=1920&bih=953&sxsrf=ADLYWIJIVh5SMcy4VTncFno97HCLX3VWow%3A1731867793516&ei=kTQ6Z8aQH-_a1sQP8fOsMQ&ved=0ahUKEwiGnYWl_uOJAxVvrZUCHfE5KwYQ4dUDCA8&uact=5&oq=Cabo+USB-C&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkNhYm8gVVNCLUMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOIvUJwQWMoscAN4AZABAJgBbKAB8QiqAQMyLjm4AQPIAQD4AQGYAg6gApMJwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAgQQIxgnwgIKECMYgAQYJxiKBcICDBAAGIAEGEMYigUYCsICChAAGIAEGEMYigXCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYFBiHAsICCBAAGIAEGLEDmAMAiAYBkAYKkgcENC4xMKAH-k4&sclient=gws-wiz-serp">
+    <></a></li>
 </ul>
 
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
