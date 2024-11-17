@@ -138,7 +138,7 @@
   <p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
   irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
 
-  ##🗃 Histórico de Lançamento
+  ## 🗃 Histórico de Lançamento
 
 
 ## 📋 Licença/License
