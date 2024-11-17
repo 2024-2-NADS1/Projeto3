@@ -139,6 +139,9 @@
   irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
 
   ## 🗃 Histórico de Lançamento
+  <ul>
+    <li><strong>0.1.0</strong>strong></li>
+  </ul>
 
 
 ## 📋 Licença/License
