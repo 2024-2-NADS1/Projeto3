@@ -133,7 +133,7 @@
   <ol>
     <li>Bibliotecas</li>
     <li>Baixar</li>
-    <img src="https://i.ibb.co/8ghg93F/guia.jpg" alt="" border="0">
+    <img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0">
   </ol>
   <li>Baixe, no próprio arduino IDE, o suporte para a placa do ESP32</li>
   <ol>
