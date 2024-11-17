@@ -129,7 +129,7 @@
 <p><strong>Passo a passo para a execução deste projeto</strong></p>
 <ul>
   <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</li>
-  <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li>
+  <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li><br>
   <img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0">
   <li>Baixe, no próprio arduino IDE, o suporte para a placa do ESP32</li>
   <ol>
