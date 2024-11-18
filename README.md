@@ -109,6 +109,7 @@
   &emsp;| guia12.jpg<br>
   &emsp;| guia13.jpg<br>
   &emsp;| guia14.jpg<br>
+  &emsp;| guiaFinal.jpg<br>
 
 |-->src<br>
   &emsp;| index.ino<br>
@@ -186,6 +187,7 @@
 <p><img src="https://i.ibb.co/HdgwqC8/guia11.jpg" alt="" border="0"></p>
 <p><img src="https://i.ibb.co/r5MvhsL/guia13.jpg" alt="" border="0"></p>
 <p><strong>Parabéns! Você está visualizando os dados com sucesso!</strong></p>
+<p><img src="https://i.ibb.co/vsddN4w/guia-Final.jpg" alt="" border="0"></p>
 
 ## 🗃 Histórico de Lançamento
 
