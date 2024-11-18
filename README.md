@@ -178,6 +178,7 @@
 </p>
 <p>Por último, cole no navegador o iP que apareceu para você.</p>
 <p><img src="https://i.ibb.co/HdgwqC8/guia11.jpg" alt="" border="0"></p>
+<p><img src="https://i.ibb.co/r5MvhsL/guia13.jpg" alt="" border="0"></p>
 
 ## 🗃 Histórico de Lançamento
 
