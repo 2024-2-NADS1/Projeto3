@@ -127,24 +127,46 @@
 </ul>
 
 <p><strong>Passo a passo para a execução do projeto</strong></p>
-<ul>
-  <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</li>
-  <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li><br>
-  <img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0"><br>
-  <br><li>Baixe, no próprio Arduino IDE, o suporte para a placa do ESP32</li>
+
+  <p>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial.</p>
+  <p>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas.</p><br>
+  <p><img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0"></p><br>
+  <br><p>Baixe, no próprio Arduino IDE, o suporte para a placa do ESP32.</p>
   <ol>
     <li>Ferramentas > Placa > Gerenciador de Placas</li>
-    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"
+    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems".</li>
   </ol>
   <br><img src="https://i.ibb.co/Q6m1BMb/ESP32-Board.jpg" alt="" border="0"><br>
-  <br><p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video</p>
-  <li>Agora, inclua no Aruino IDE todas as bibliotecas baixadas</li><br>
+  <br><p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video.</p>
+  <p>Agora, inclua no Aruino IDE todas as bibliotecas baixadas.</p><br>
   <img src="https://i.ibb.co/51MdTw2/guia2.jpg" alt="" border="0">
 </ul>
-<p>Após a instalação de tudo, conectar o protótipo a rede Wi-Fi e então o IP que aparecer na tela, é correspondente ao IP do ESP32. Então basta copiar e colar este mesmo IP no Browser e você
-  irá ter acesso à página que terá as informações das devidas detecções dos sensores presentes no projeto.</p>
+<p>Após a instalação de tudo, baixe o arquivo que contém o código a ser usado.</p>
+<img src="https://i.ibb.co/K6Y152P/guia3.jpg" alt="" border="0">
+<p>Agora, clique com o botão direito no arquivo .zip baixado e, em seguida, extraia-o.<br></p>
+<img src="https://i.ibb.co/wwYsTLH/guia4.jpg" alt="" border="0">
+<p></p>Baixe o winrar <a href="https://www.win-rar.com/download.html?&L=9">aqui</a>, se necessário.</p>
+<p>No Arduino IDE, abra o arquivo "index.ino". Ele estará onde você extraiu o arquivo ".zip".</p>
+<p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
+<p><img src="https://i.ibb.co/FgtyHMH/guia6.jpg" alt="" border="0"></p>
+<p>Agora, selecione a placa <strong>"ESP32 Dev Module"</strong>.</p>
+<p><img src="https://i.ibb.co/pwKJWhg/guia7.jpg" alt="" border="0"></p>
+<p>Após isso, selecione a porta. Para que a opção correta apareça, você deve, neste momento, conectar o cabo USB-C no ESP32 e no seu Computador.</p>
+<p>Provavelmente, aparecerão duas opções para você, a opção correta é aquela que não é a "COM1". Ou seja, a outra opção.</p>
+<p>A porta "COM1" é uma porta padrão, então, neste caso, você pode ignora-lá.</p>
+<p><img src="https://i.ibb.co/YWzPRrm/guia8.jpg" alt="" border="0"></p>
+<p>Agora, monte a fiação da seguinte forma:</p>
+<p><img src="https://i.ibb.co/RjB3R8b/exemplo.png" alt="" border="0"></p>
+<p>Pronto! Você já pode executar e colocar o código no ESP32 e, para isso, basta clicar na seta para a direita (encontra-se no canto superior esquerdo da tela).</p>
+<p><img src="https://i.ibb.co/Zhtp2wB/guia10.jpg" alt="" border="0"></p>
+<p>O resultado esperado é algo como:<br>
+  Conectando ao WiFi...<br>
+  Conectado ao WiFi!<br>
+  IP do ESP32: 192.168.156.1 (o seu será diferente, muito provavelmente).<br>
+  Servidor iniciado!"</p>
 
 ## 🗃 Histórico de Lançamento
+
 <ul>
   <li><strong>0.1.0</strong> - 22/10/2024: Compra de materiais.</li>
    <li><strong>0.2.0</strong> - 29/10/2024: Estudos sobre exercícios propostos contra estresse/ansiedade.</li>
@@ -154,13 +176,7 @@
    <li><strong>0.6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
 </ul>
 
-
-## 📋 Licença/License
-
-
 ## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
 
 1. <https://www.unimedcampinas.com.br/blog/saude-emocional/6-exercicios-para-acalmar-a-mente>
 2. <https://www.tuasaude.com/frequencia-cardiaca/#google_vignette>
