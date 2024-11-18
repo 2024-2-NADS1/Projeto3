@@ -146,8 +146,8 @@
 <p>Agora, clique com o botão direito no arquivo .zip baixado e, em seguida, extraia-o<br></p>
 <img src="https://i.ibb.co/wwYsTLH/guia4.jpg" alt="" border="0">
 <p></p>Baixe o winrar <a href="https://www.win-rar.com/download.html?&L=9">aqui</a>, se necessário</p><br>
-
-
+<p>No Arduino IDE, abra o arquivo "index.ino"</p>
+<p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
 ## 🗃 Histórico de Lançamento
 
 <ul>
