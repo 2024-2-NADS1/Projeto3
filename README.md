@@ -109,8 +109,7 @@
 <br>
 |-->src<br>
 
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;| index.ino<br>
 
 <br>
 | readme.md<br>
