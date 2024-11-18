@@ -170,6 +170,8 @@
 <p><img src="https://i.ibb.co/RjB3R8b/exemplo.png" alt="" border="0"></p>
 <p>Pronto! Você já pode executar e colocar o código no ESP32 e, para isso, basta clicar na seta para a direita (encontra-se no canto superior esquerdo da tela).</p>
 <p><img src="https://i.ibb.co/Zhtp2wB/guia10.jpg" alt="" border="0"></p>
+<p>Para visualizar o resultado, abra o monitor serial.</p>
+<p><img src="https://i.ibb.co/9H52yjT/guia14.jpg" alt="" border="0"></p>
 <p>O resultado esperado é algo como:<br><br>
   Conectando ao WiFi...<br>
   Conectado ao WiFi!<br>
