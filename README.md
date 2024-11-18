@@ -158,6 +158,7 @@
 <p>No Arduino IDE, abra o arquivo "index.ino". Ele estará onde você extraiu o arquivo ".zip".</p>
 <p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
 <p><img src="https://i.ibb.co/FgtyHMH/guia6.jpg" alt="" border="0"></p>
+<p>Mude a parte do código que contém "SUBSTITUA PELO NOME DO SEU WIFI" e "SUBSTITUA POR SUA SENHA" (as aspas devem permanecer, coloque o nome e senha dentro delas).</p>
 <p>Agora, selecione a placa <strong>"ESP32 Dev Module"</strong>.</p>
 <p><img src="https://i.ibb.co/pwKJWhg/guia7.jpg" alt="" border="0"></p>
 <p>Após isso, selecione a porta. Para que a opção correta apareça, você deve, neste momento, conectar o cabo USB-C no ESP32 e no seu Computador.</p>
@@ -172,7 +173,10 @@
   Conectando ao WiFi...<br>
   Conectado ao WiFi!<br>
   IP do ESP32: 192.168.156.1 (o seu será diferente, muito provavelmente).<br>
-  Servidor iniciado!</p>
+  Servidor iniciado!
+</p>
+<p>Por último, cole no navegador o iP que apareceu para você.</p>
+<p><img src="https://i.ibb.co/HdgwqC8/guia11.jpg" alt="" border="0"></p>
 
 ## 🗃 Histórico de Lançamento
 
