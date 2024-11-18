@@ -189,6 +189,7 @@
 <p><strong>Parabéns! Você está visualizando os dados com sucesso!</strong></p>
 <p><img src="https://i.ibb.co/vsddN4w/guia-Final.jpg" alt="" border="0"></p>
 <p><strong>Lembre-se de colocar o dedo ou pulso no MAX30102 para visualizar seu BPM.</strong></p>
+<p><strong>Caso contrário, você verá algo como "N/A BPM".</strong></p>
 
 ## 🗃 Histórico de Lançamento
 
