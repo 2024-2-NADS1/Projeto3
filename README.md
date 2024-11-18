@@ -106,7 +106,6 @@
   &emsp;| guia9.png<br>
   &emsp;| guia10.jpg<br>
 
-<br>
 |-->src<br>
 
   &emsp;| index.ino<br>
