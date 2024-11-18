@@ -209,3 +209,4 @@
 3. <https://www.unimed.coop.br/viver-bem/saude-em-pauta/relacao-entre-calor-e-estresse>
 4. <https://www.cnnbrasil.com.br/saude/calor-extremo-entenda-como-as-altas-temperaturas-afetam-o-corpo-e-a-saude/>
 5. <https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-umidade-e-temperatura-dht22-am2302>
+6. <https://lastminuteengineers.com/max30102-pulse-oximeter-heart-rate-sensor-arduino-tutorial/>
