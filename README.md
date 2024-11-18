@@ -149,6 +149,9 @@
 <p>No Arduino IDE, abra o arquivo "index.ino". Ele estará onde você extraiu o arquivo .zip</p>
 <p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
 <p><img src="https://i.ibb.co/FgtyHMH/guia6.jpg" alt="" border="0"></p>
+<p>Agora, selecione a placa "ESP32 Dev Module"</p>
+<p><img src="https://i.ibb.co/pwKJWhg/guia7.jpg" alt="" border="0"></p>
+
 
 ## 🗃 Histórico de Lançamento
 
