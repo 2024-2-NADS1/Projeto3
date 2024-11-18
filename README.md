@@ -109,7 +109,6 @@
 |-->src<br>
   &emsp;| index.ino<br>
 
-<br>
 | readme.md<br>
 
 ## 🛠 Hardwares e Instalação
