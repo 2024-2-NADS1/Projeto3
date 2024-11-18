@@ -155,6 +155,10 @@
 <p>Provavelmente, aparecerão duas opções para você, a opção correta é aquela que não é a "COM1". Ou seja, a outra opção.</p>
 <p>A porta "COM1" é uma porta padrão, então, neste caso, você pode ignora-lá.</p>
 <p><img src="https://i.ibb.co/YWzPRrm/guia8.jpg" alt="" border="0"></p>
+<p>Agora, monte a fiação da seguinte forma:</p>
+<p><img src="https://i.ibb.co/RjB3R8b/exemplo.png" alt="" border="0"></p>
+<p>Pronto! Você já pode executar e colocar o código no ESP32 e, para isso, basta clicar na seta para a direita (encontra-se no canto superior esquerdo da tela).</p>
+<p><img src="https://i.ibb.co/Zhtp2wB/guia10.jpg" alt="" border="0"></p>
 
 ## 🗃 Histórico de Lançamento
 
