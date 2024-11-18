@@ -41,8 +41,8 @@ void setup() {
   particleSensor.setPulseAmplitudeGreen(0);   // Desliga a luz verde
 
   // Conecta ao WiFi
-  String ssid = "ESP32 - 3";     // Nome da rede WiFi
-  String password = "12345678";  // Senha da rede WiFi
+  String ssid = "SUBSTITUA PELO NOME DO SEU WIFI";     // Nome da rede WiFi
+  String password = "SUBSTITUA POR SUA SENHA";  // Senha da rede WiFi
 
   WiFi.begin(ssid, password);  // Inicia a conexão
   while (WiFi.status() != WL_CONNECTED) {
