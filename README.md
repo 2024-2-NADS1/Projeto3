@@ -95,6 +95,17 @@
 <br>
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
   &emsp;| informações_sensores.jpg<br>
+  &emsp;| ESP32_Board.jpg<br>
+  &emsp;| guia.jpg<br>
+  &emsp;| guia2.jpg<br>
+  &emsp;| guia3.jpg<br>
+  &emsp;| guia4.jpg<br>
+  &emsp;| guia5.jpg<br>
+  &emsp;| guia6.jpg<br>
+  &emsp;| guia7.jpg<br>
+  &emsp;| guia8.jpg<br>
+  &emsp;| guia9.png<br>
+  &emsp;| guia10.jpg<br>
 
 <br>
 |-->src<br>
