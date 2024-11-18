@@ -105,6 +105,10 @@
   &emsp;| guia8.jpg<br>
   &emsp;| guia9.png<br>
   &emsp;| guia10.jpg<br>
+  &emsp;| guia11.jpg<br>
+  &emsp;| guia12.jpg<br>
+  &emsp;| guia13.jpg<br>
+  &emsp;| guia14.jpg<br>
 
 |-->src<br>
   &emsp;| index.ino<br>
