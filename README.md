@@ -127,11 +127,11 @@
 </ul>
 
 <p><strong>Passo a passo para a execução do projeto</strong></p>
-<ul>
-  <li>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</li>
-  <li>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</li><br>
-  <img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0"><br>
-  <br><li>Baixe, no próprio Arduino IDE, o suporte para a placa do ESP32</li>
+
+  <p>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</p>
+  <p>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</p><br>
+  <p><img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0"></p><br>
+  <br><p>Baixe, no próprio Arduino IDE, o suporte para a placa do ESP32</p>
   <ol>
     <li>Ferramentas > Placa > Gerenciador de Placas</li>
     <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"
@@ -145,7 +145,8 @@
 <img src="https://i.ibb.co/K6Y152P/guia3.jpg" alt="" border="0">
 <p>Agora, clique com o botão direito no arquivo .zip baixado e, em seguida, extraia-o<br></p>
 <img src="https://i.ibb.co/wwYsTLH/guia4.jpg" alt="" border="0">
-<p></p>Baixe o winrar <a href="https://www.win-rar.com/download.html?&L=9">aqui</a>, se necessário</p>
+<p></p>Baixe o winrar <a href="https://www.win-rar.com/download.html?&L=9">aqui</a>, se necessário</p><br>
+
 
 ## 🗃 Histórico de Lançamento
 
