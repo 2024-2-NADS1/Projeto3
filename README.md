@@ -92,7 +92,6 @@
 <br>
 |-->imagens<br>
 
-<br>
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
   &emsp;| informações_sensores.jpg<br>
   &emsp;| ESP32_Board.jpg<br>
@@ -110,7 +109,6 @@
 <br>
 |-->src<br>
 
-<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 
