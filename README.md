@@ -168,7 +168,7 @@
 <p><img src="https://i.ibb.co/RjB3R8b/exemplo.png" alt="" border="0"></p>
 <p>Pronto! Você já pode executar e colocar o código no ESP32 e, para isso, basta clicar na seta para a direita (encontra-se no canto superior esquerdo da tela).</p>
 <p><img src="https://i.ibb.co/Zhtp2wB/guia10.jpg" alt="" border="0"></p>
-<p>O resultado esperado é algo como:<br>
+<p>O resultado esperado é algo como:<br><br>
   Conectando ao WiFi...<br>
   Conectado ao WiFi!<br>
   IP do ESP32: 192.168.156.1 (o seu será diferente, muito provavelmente).<br>
