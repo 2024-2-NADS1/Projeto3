@@ -46,9 +46,11 @@
 <br>
   &emsp;|--> Algoritmos e Lógica de Programação<br>
     &emsp;&emsp;|--> Entrega 1<br>
+      &emsp;&emsp;&emsp;|--> Algoritmos e Lógica de Programação01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
+    &emsp;&emsp;| ignore.txt<br>
 
 <br>
   &emsp;|--> Banco de Dados<br>
@@ -81,9 +83,11 @@
 <br>
   &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
     &emsp;&emsp;|--> Entrega 1<br>
+      &emsp;&emsp;&emsp;|--> Sistemas Embarcados e Internet das Coisas01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
+    &emsp;&emsp;| ignore.txt<br>
 
 <br>
 |-->imagens<br>
@@ -163,7 +167,7 @@
   Conectando ao WiFi...<br>
   Conectado ao WiFi!<br>
   IP do ESP32: 192.168.156.1 (o seu será diferente, muito provavelmente).<br>
-  Servidor iniciado!"</p>
+  Servidor iniciado!</p>
 
 ## 🗃 Histórico de Lançamento
 
