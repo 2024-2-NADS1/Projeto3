@@ -159,6 +159,7 @@
 <p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
 <p><img src="https://i.ibb.co/FgtyHMH/guia6.jpg" alt="" border="0"></p>
 <p>Mude a parte do código que contém "SUBSTITUA PELO NOME DO SEU WIFI" e "SUBSTITUA POR SUA SENHA" (as aspas devem permanecer, coloque o nome e senha dentro delas).</p>
+<p><img src="https://i.ibb.co/Km8Jv1C/guia12.jpg" alt="" border="0"></p>
 <p>Agora, selecione a placa <strong>"ESP32 Dev Module"</strong>.</p>
 <p><img src="https://i.ibb.co/pwKJWhg/guia7.jpg" alt="" border="0"></p>
 <p>Após isso, selecione a porta. Para que a opção correta apareça, você deve, neste momento, conectar o cabo USB-C no ESP32 e no seu Computador.</p>
