@@ -158,13 +158,7 @@
    <li><strong>0.6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
 </ul>
 
-
-## 📋 Licença/License
-
-
 ## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
 
 1. <https://www.unimedcampinas.com.br/blog/saude-emocional/6-exercicios-para-acalmar-a-mente>
 2. <https://www.tuasaude.com/frequencia-cardiaca/#google_vignette>
