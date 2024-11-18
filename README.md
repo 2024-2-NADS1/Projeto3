@@ -90,6 +90,8 @@
     &emsp;&emsp;| ignore.txt<br>
 
 <br>
+  &emsp;| bula.pdf<br>
+
 |-->imagens<br>
 
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
