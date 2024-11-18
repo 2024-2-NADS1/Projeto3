@@ -46,9 +46,11 @@
 <br>
   &emsp;|--> Algoritmos e Lógica de Programação<br>
     &emsp;&emsp;|--> Entrega 1<br>
+      &emsp;&emsp;&emsp;| Algoritmos e Lógica de Programação01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
+    &emsp;&emsp;| ignore.txt<br>
 
 <br>
   &emsp;|--> Banco de Dados<br>
@@ -81,25 +83,37 @@
 <br>
   &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
     &emsp;&emsp;|--> Entrega 1<br>
+      &emsp;&emsp;&emsp;| Sistemas Embarcados e Internet das Coisas01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
+    &emsp;&emsp;| ignore.txt<br>
 
 <br>
 |-->imagens<br>
 
-<br>
   &emsp;| aluno_desenvolvendo_projeto.jpg<br>
   &emsp;| informações_sensores.jpg<br>
+  &emsp;| ESP32_Board.jpg<br>
+  &emsp;| guia.jpg<br>
+  &emsp;| guia2.jpg<br>
+  &emsp;| guia3.jpg<br>
+  &emsp;| guia4.jpg<br>
+  &emsp;| guia5.jpg<br>
+  &emsp;| guia6.jpg<br>
+  &emsp;| guia7.jpg<br>
+  &emsp;| guia8.jpg<br>
+  &emsp;| guia9.png<br>
+  &emsp;| guia10.jpg<br>
+  &emsp;| guia11.jpg<br>
+  &emsp;| guia12.jpg<br>
+  &emsp;| guia13.jpg<br>
+  &emsp;| guia14.jpg<br>
+  &emsp;| guiaFinal.jpg<br>
 
-<br>
 |-->src<br>
+  &emsp;| index.ino<br>
 
-<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-
-<br>
 | readme.md<br>
 
 ## 🛠 Hardwares e Instalação
@@ -111,7 +125,7 @@
 
   <li>1x ESP32 <a href="https://www.google.com/search?q=ESP32&oq=ESP32&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBggBEEUYOzIMCAIQIxgnGIAEGIoFMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTIzOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8"><></a></li>
 
-  <li>1x Breadboard <a href="https://www.google.com/search?q=Breadboard&oq=Breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"><></a></li>
+  <li>1x Protoboard <a href="https://www.google.com/search?q=Breadboard&oq=Breadboard&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTgxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"><></a></li>
 
   <li>13x Jumpers MxF <a href="https://www.google.com/search?q=Jumpers+MxF&oq=Jumpers+MxF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBBzQyNWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8"><></a></li>
 
@@ -149,6 +163,8 @@
 <p>No Arduino IDE, abra o arquivo "index.ino". Ele estará onde você extraiu o arquivo ".zip".</p>
 <p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
 <p><img src="https://i.ibb.co/FgtyHMH/guia6.jpg" alt="" border="0"></p>
+<p>Mude a parte do código que contém "SUBSTITUA PELO NOME DO SEU WIFI" e "SUBSTITUA POR SUA SENHA" (as aspas devem permanecer, coloque o nome e senha dentro delas).</p>
+<p><img src="https://i.ibb.co/Km8Jv1C/guia12.jpg" alt="" border="0"></p>
 <p>Agora, selecione a placa <strong>"ESP32 Dev Module"</strong>.</p>
 <p><img src="https://i.ibb.co/pwKJWhg/guia7.jpg" alt="" border="0"></p>
 <p>Após isso, selecione a porta. Para que a opção correta apareça, você deve, neste momento, conectar o cabo USB-C no ESP32 e no seu Computador.</p>
@@ -159,21 +175,31 @@
 <p><img src="https://i.ibb.co/RjB3R8b/exemplo.png" alt="" border="0"></p>
 <p>Pronto! Você já pode executar e colocar o código no ESP32 e, para isso, basta clicar na seta para a direita (encontra-se no canto superior esquerdo da tela).</p>
 <p><img src="https://i.ibb.co/Zhtp2wB/guia10.jpg" alt="" border="0"></p>
-<p>O resultado esperado é algo como:<br>
+<p>Para visualizar o resultado, abra o monitor serial.</p>
+<p><img src="https://i.ibb.co/9H52yjT/guia14.jpg" alt="" border="0"></p>
+<p>O resultado esperado é algo como:<br><br>
   Conectando ao WiFi...<br>
   Conectado ao WiFi!<br>
   IP do ESP32: 192.168.156.1 (o seu será diferente, muito provavelmente).<br>
-  Servidor iniciado!"</p>
+  Servidor iniciado!
+</p>
+<p>Por último, cole no navegador o iP que apareceu para você.</p>
+<p><img src="https://i.ibb.co/HdgwqC8/guia11.jpg" alt="" border="0"></p>
+<p><img src="https://i.ibb.co/r5MvhsL/guia13.jpg" alt="" border="0"></p>
+<p><strong>Parabéns! Você está visualizando os dados com sucesso!</strong></p>
+<p><img src="https://i.ibb.co/vsddN4w/guia-Final.jpg" alt="" border="0"></p>
+<p><strong>Lembre-se de colocar o dedo ou pulso no MAX30102 para visualizar seu BPM.</strong></p>
+<p><strong>Caso contrário, você verá algo como "N/A BPM".</strong></p>
 
 ## 🗃 Histórico de Lançamento
 
 <ul>
-  <li><strong>0.1.0</strong> - 22/10/2024: Compra de materiais.</li>
-   <li><strong>0.2.0</strong> - 29/10/2024: Estudos sobre exercícios propostos contra estresse/ansiedade.</li>
-   <li><strong>0.3.0</strong> - 02/11/2024: Desenvolvimento dos códigos dos sensores, do circuito e página HTML para demonstração das detecçõoes dos sensores.</li>
-   <li><strong>0.4.0</strong> - 07/11/2024: Organização do GitHub e pastas.</li>
-   <li><strong>0.5.0</strong> - 14/11/2024: Integração às bibliotecas necessárias.</li>
-   <li><strong>0.6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
+  <li><strong>1.0</strong> - 22/10/2024: Compra de materiais.</li>
+   <li><strong>2.0</strong> - 29/10/2024: Estudos sobre exercícios propostos contra estresse/ansiedade.</li>
+   <li><strong>3.0</strong> - 02/11/2024: Desenvolvimento dos códigos, do circuito e da página HTML para demonstração dos dados coletados.</li>
+   <li><strong>4.0</strong> - 07/11/2024: Organização do GitHub e pastas.</li>
+   <li><strong>5.0</strong> - 14/11/2024: Integração às bibliotecas necessárias.</li>
+   <li><strong>6.0</strong> - 17/11/2024: Conclusão do projeto.</li>
 </ul>
 
 ## 🎓 Referências
@@ -182,3 +208,5 @@
 2. <https://www.tuasaude.com/frequencia-cardiaca/#google_vignette>
 3. <https://www.unimed.coop.br/viver-bem/saude-em-pauta/relacao-entre-calor-e-estresse>
 4. <https://www.cnnbrasil.com.br/saude/calor-extremo-entenda-como-as-altas-temperaturas-afetam-o-corpo-e-a-saude/>
+5. <https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-umidade-e-temperatura-dht22-am2302>
+6. <https://lastminuteengineers.com/max30102-pulse-oximeter-heart-rate-sensor-arduino-tutorial/>
