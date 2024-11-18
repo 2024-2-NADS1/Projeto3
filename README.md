@@ -46,7 +46,7 @@
 <br>
   &emsp;|--> Algoritmos e Lógica de Programação<br>
     &emsp;&emsp;|--> Entrega 1<br>
-      &emsp;&emsp;&emsp;|--> Algoritmos e Lógica de Programação01.pdf<br>
+      &emsp;&emsp;&emsp;| Algoritmos e Lógica de Programação01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
@@ -83,7 +83,7 @@
 <br>
   &emsp;|--> Sistemas Embarcados e Internet das Coisas<br>
     &emsp;&emsp;|--> Entrega 1<br>
-      &emsp;&emsp;&emsp;|--> Sistemas Embarcados e Internet das Coisas01.pdf<br>
+      &emsp;&emsp;&emsp;| Sistemas Embarcados e Internet das Coisas01.pdf<br>
     &emsp;&emsp;|--> Entrega 2<br>
     &emsp;&emsp;|--> Entrega 3<br>
     &emsp;&emsp;|--> Entrega 4<br>
