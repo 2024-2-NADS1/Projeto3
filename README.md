@@ -128,30 +128,31 @@
 
 <p><strong>Passo a passo para a execução do projeto</strong></p>
 
-  <p>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial</p>
-  <p>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas</p><br>
+  <p>Baixe o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> no site oficial.</p>
+  <p>Clique <a href="https://drive.google.com/drive/folders/1_0JAlyXRPmQ2ljHWerrxkdcvzNjBxp1g?usp=sharing">aqui</a> para baixar as bibliotecas utilizadas.</p><br>
   <p><img src="https://i.ibb.co/N7393P7/guia.jpg" alt="" border="0"></p><br>
-  <br><p>Baixe, no próprio Arduino IDE, o suporte para a placa do ESP32</p>
+  <br><p>Baixe, no próprio Arduino IDE, o suporte para a placa do ESP32.</p>
   <ol>
     <li>Ferramentas > Placa > Gerenciador de Placas</li>
-    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems"
+    <li>Pesquise por "ESP32" e instale a versão que contenha "by Espressif Systems".</li>
   </ol>
   <br><img src="https://i.ibb.co/Q6m1BMb/ESP32-Board.jpg" alt="" border="0"><br>
-  <br><p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video</p>
-  <li>Agora, inclua no Aruino IDE todas as bibliotecas baixadas</li><br>
+  <br><p>Se a versão do seu Arduino IDE for antiga e não aparecer uma barra de pesquisa, siga o passo a passo <a href="https://youtu.be/ROkhP5oWRUU?si=hSyUEFCoV2zSfpMS">deste</a> video.</p>
+  <li>Agora, inclua no Aruino IDE todas as bibliotecas baixadas.</li><br>
   <img src="https://i.ibb.co/51MdTw2/guia2.jpg" alt="" border="0">
 </ul>
-<p>Após a instalação de tudo, baixe o arquivo que contém o código a ser usado</p>
+<p>Após a instalação de tudo, baixe o arquivo que contém o código a ser usado.</p>
 <img src="https://i.ibb.co/K6Y152P/guia3.jpg" alt="" border="0">
-<p>Agora, clique com o botão direito no arquivo .zip baixado e, em seguida, extraia-o<br></p>
+<p>Agora, clique com o botão direito no arquivo .zip baixado e, em seguida, extraia-o.<br></p>
 <img src="https://i.ibb.co/wwYsTLH/guia4.jpg" alt="" border="0">
-<p></p>Baixe o winrar <a href="https://www.win-rar.com/download.html?&L=9">aqui</a>, se necessário</p>
-<p>No Arduino IDE, abra o arquivo "index.ino". Ele estará onde você extraiu o arquivo .zip</p>
+<p></p>Baixe o winrar <a href="https://www.win-rar.com/download.html?&L=9">aqui</a>, se necessário.</p>
+<p>No Arduino IDE, abra o arquivo "index.ino". Ele estará onde você extraiu o arquivo ".zip".</p>
 <p><img src="https://i.ibb.co/yNRcTC5/guia5.jpg" alt="" border="0"></p>
 <p><img src="https://i.ibb.co/FgtyHMH/guia6.jpg" alt="" border="0"></p>
-<p>Agora, selecione a placa "ESP32 Dev Module"</p>
+<p>Agora, selecione a placa <strrong>"ESP32 Dev Module"</strrong>.</p>
 <p><img src="https://i.ibb.co/pwKJWhg/guia7.jpg" alt="" border="0"></p>
-
+<p>Após isso, selecione a porta. Provavelmente, aparecerão duas opções para você, a opção correta é aquela que não é a "COM1". Ou seja, a outra opção.</p>
+<p>A porta "COM1" é uma porta padrão, então neste caso, você pode ignora-lá.</p>
 
 ## 🗃 Histórico de Lançamento
 
